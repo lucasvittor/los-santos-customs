@@ -56,7 +56,7 @@ export default function Footer() {
                 </div>
 
                 <div className="mt-5 items-center text-center">
-                    <a href="https://github.com/lucssvittor" target='_blank' aria-label="GitHub" className="flex items-center justify-center">
+                    <a href="https://github.com/lucasvittor" target='_blank' aria-label="GitHub" className="flex items-center justify-center">
                         <GithubLogo className='w-8 h-8 hover:text-yellow-500 transition' />
                         <span className="ml-2">Dev Lucas</span>
                     </a>
